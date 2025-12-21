@@ -8,6 +8,15 @@ The application focuses on clean architecture, realistic features, and secure pa
 
 ---
 
+##Live Demo
+
+###Frontend (Vercel):
+👉 https://swiggy-five-ashen.vercel.app
+
+The application is deployed on Vercel. Payments are integrated using Razorpay Test Mode, so no real money is deducted.
+
+---
+
 ## Features
 
 * User authentication (login required before placing an order)

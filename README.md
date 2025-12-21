@@ -172,7 +172,6 @@ node server.js
 ## Developer
 
 **Ankit Gupta**
-Final-Year Computer Engineering Student
 Aspiring Full-Stack MERN Developer
 
 

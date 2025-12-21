@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="96" height="96">
+  <!-- Outer circle background -->
+  <circle cx="12" cy="12" r="11" fill="grey" />
+
+  <!-- User head -->
+  <circle cx="12" cy="9" r="3" fill="white" />
+
+  <!-- User shoulders -->
+  <path 
+    d="M6 19c0-3.3 2.7-6 6-6s6 2.7 6 6v1H6v-1z" 
+    fill="white" 
+  />
+</svg>

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Urbanist', sans-serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.header{
+  caret-color: transparent;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE */
+    scrollbar-width: none;    /* Firefox */
+  }
+}
+
+
